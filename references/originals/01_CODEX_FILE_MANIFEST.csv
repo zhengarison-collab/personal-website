@@ -1,0 +1,226 @@
+﻿path,type,size_bytes,size_human,category,status,priority,read_when,notes
+个人站点设计/关于佛牌的相关图片/,folder,,,佛牌 / Terry Studio,REFERENCE,P1,整理 Terry Studio 房间或佛牌视觉素材时,佛牌品牌与实际案例素材入口
+个人站点设计/我的网站构想UI 设计库/,folder,,,网站主空间 / UI,CURRENT,P0,处理网站总体视觉、主页、导航、动效时,当前网站视觉与主空间素材的核心目录
+个人站点设计/写的书封面和简介，会陆续增加数量/,folder,,,小说,CURRENT,P1,整理 Novels 房间时,小说简介与现有封面素材
+个人站点设计/个人简历+案例展示/,folder,,,About / Work,REFERENCE,P1,整理 About、Resume、Work、Case Studies 时,经历与项目证据；部分资料较旧
+个人站点设计/这个是已经做好了的产品PTG，先用ptg 的名字，后面改了名字为泰瑞堂先不用/,folder,,,PTG,CURRENT,P1,整理 PTG 房间时,当前网站先使用 PTG 名称；不要使用后续改名
+个人站点设计/.impeccable/,folder,,,构建遗留,IGNORE,IGNORE,默认不读取,历史构建设计工具状态，不属于网站内容素材
+个人站点设计/.DS_Store,application/octet-stream,10244,10.0 KB,系统文件,IGNORE,IGNORE,永不读取,macOS Finder 元数据
+个人站点设计/我的网站构想.rtf,text/rtf,15608,15.2 KB,网站总体需求,CURRENT,P0,任何网站整理任务开始时,权威入口需求文档；网站定位、主空间、主题房间、Return 动线、用途与板块
+个人站点设计/目前接接活动的对外名义公司.pdf,application/pdf,17899514,17.1 MB,Freeframe Studio,CURRENT,P1,整理 Freeframe Studio 房间或当前业务时,当前对外业务资料；包含服务、资源、制作团队、场地等
+个人站点设计/关于佛牌的相关图片/可调用实际案例画面/,folder,,,佛牌 / Terry Studio,REFERENCE,P2,需要挑选佛牌实拍、功德、交流案例画面时,原始案例素材池；默认不要逐个读取
+个人站点设计/关于佛牌的相关图片/.DS_Store,application/octet-stream,8196,8.0 KB,系统文件,IGNORE,IGNORE,永不读取,macOS Finder 元数据
+个人站点设计/关于佛牌的相关图片/选用logo1.PNG,image/png,807532,788.6 KB,佛牌 / Terry Studio,CURRENT,P1,设计 Terry Studio 房间、Logo 或品牌视觉时,文件名明确标注“选用”；优先于其他 Logo 变体
+个人站点设计/关于佛牌的相关图片/自选 logo 3.PNG,image/png,729910,712.8 KB,佛牌 / Terry Studio,REFERENCE,P2,需要比较 Logo 备选时,Logo 备选，不默认使用
+个人站点设计/关于佛牌的相关图片/0723确认稿泰瑞堂logo(5).pdf,application/pdf,1550293,1.5 MB,佛牌 / Terry Studio,REFERENCE,P2,需要查看完整 Logo 稿件或矢量/版式时,Logo 稿件；与选用logo1搭配核对
+个人站点设计/关于佛牌的相关图片/自选 logo 5.PNG,image/png,336251,328.4 KB,佛牌 / Terry Studio,REFERENCE,P2,需要比较 Logo 备选时,Logo 备选，不默认使用
+个人站点设计/关于佛牌的相关图片/自选 logo2.PNG,image/png,347748,339.6 KB,佛牌 / Terry Studio,REFERENCE,P2,需要比较 Logo 备选时,Logo 备选，不默认使用
+个人站点设计/关于佛牌的相关图片/自选 logo4.PNG,image/png,348035,339.9 KB,佛牌 / Terry Studio,REFERENCE,P2,需要比较 Logo 备选时,Logo 备选，不默认使用
+个人站点设计/关于佛牌的相关图片/可调用实际案例画面/1798d9ec8227f38e2e1d2fbe930679.JPG,image/jpeg,486721,475.3 KB,佛牌 / Terry Studio 案例,REFERENCE,P2,仅在 Terry Studio 房间需要挑具体实拍时,原始案例媒体；先按需抽样，不要全量读图/视频
+个人站点设计/关于佛牌的相关图片/可调用实际案例画面/3d331ef4fe03dc7894121437a8b993.JPG,image/jpeg,191523,187.0 KB,佛牌 / Terry Studio 案例,REFERENCE,P2,仅在 Terry Studio 房间需要挑具体实拍时,原始案例媒体；先按需抽样，不要全量读图/视频
+个人站点设计/关于佛牌的相关图片/可调用实际案例画面/b3063828903282ab5517ac0c0744db.JPG,image/jpeg,222106,216.9 KB,佛牌 / Terry Studio 案例,REFERENCE,P2,仅在 Terry Studio 房间需要挑具体实拍时,原始案例媒体；先按需抽样，不要全量读图/视频
+个人站点设计/关于佛牌的相关图片/可调用实际案例画面/58eda79b565158342dfe12f81c0e47_livephoto.HEIC,image/heif,289635,282.8 KB,佛牌 / Terry Studio 案例,REFERENCE,P2,仅在 Terry Studio 房间需要挑具体实拍时,原始案例媒体；先按需抽样，不要全量读图/视频
+个人站点设计/关于佛牌的相关图片/可调用实际案例画面/84c5d03e5da376411eb898100d751d.JPG,image/jpeg,320310,312.8 KB,佛牌 / Terry Studio 案例,REFERENCE,P2,仅在 Terry Studio 房间需要挑具体实拍时,原始案例媒体；先按需抽样，不要全量读图/视频
+个人站点设计/关于佛牌的相关图片/可调用实际案例画面/a5459c2210eb955316073793dc464e.MP4,video/mp4,2381639,2.3 MB,佛牌 / Terry Studio 案例,REFERENCE,P2,仅在 Terry Studio 房间需要挑具体实拍时,原始案例媒体；先按需抽样，不要全量读图/视频
+个人站点设计/关于佛牌的相关图片/可调用实际案例画面/910a73ba930c088d9fff118a67bceb_livephoto.HEIC,image/heif,202246,197.5 KB,佛牌 / Terry Studio 案例,REFERENCE,P2,仅在 Terry Studio 房间需要挑具体实拍时,原始案例媒体；先按需抽样，不要全量读图/视频
+个人站点设计/关于佛牌的相关图片/可调用实际案例画面/a02154e7948be23cdba2bccef7dfb9.JPG,image/jpeg,329066,321.4 KB,佛牌 / Terry Studio 案例,REFERENCE,P2,仅在 Terry Studio 房间需要挑具体实拍时,原始案例媒体；先按需抽样，不要全量读图/视频
+个人站点设计/关于佛牌的相关图片/可调用实际案例画面/5c9cc2ddfc92df6ec7311797cf5359.JPG,image/jpeg,396766,387.5 KB,佛牌 / Terry Studio 案例,REFERENCE,P2,仅在 Terry Studio 房间需要挑具体实拍时,原始案例媒体；先按需抽样，不要全量读图/视频
+个人站点设计/关于佛牌的相关图片/可调用实际案例画面/e8f1f5f4d68c85ca9cad557cdb82eb.JPG,image/jpeg,382601,373.6 KB,佛牌 / Terry Studio 案例,REFERENCE,P2,仅在 Terry Studio 房间需要挑具体实拍时,原始案例媒体；先按需抽样，不要全量读图/视频
+个人站点设计/关于佛牌的相关图片/可调用实际案例画面/f329427f8664f1fd5f79cf391453f3.JPG,image/jpeg,329495,321.8 KB,佛牌 / Terry Studio 案例,REFERENCE,P2,仅在 Terry Studio 房间需要挑具体实拍时,原始案例媒体；先按需抽样，不要全量读图/视频
+个人站点设计/关于佛牌的相关图片/可调用实际案例画面/3f2c93dfe048eaa2c47495ee0db00a.JPG,image/jpeg,169894,165.9 KB,佛牌 / Terry Studio 案例,REFERENCE,P2,仅在 Terry Studio 房间需要挑具体实拍时,原始案例媒体；先按需抽样，不要全量读图/视频
+个人站点设计/关于佛牌的相关图片/可调用实际案例画面/495b73286446174ca85ea7159e045e.JPG,image/jpeg,280504,273.9 KB,佛牌 / Terry Studio 案例,REFERENCE,P2,仅在 Terry Studio 房间需要挑具体实拍时,原始案例媒体；先按需抽样，不要全量读图/视频
+个人站点设计/关于佛牌的相关图片/可调用实际案例画面/b5dc16dea7c25263eacd697fabff9e.JPG,image/jpeg,207999,203.1 KB,佛牌 / Terry Studio 案例,REFERENCE,P2,仅在 Terry Studio 房间需要挑具体实拍时,原始案例媒体；先按需抽样，不要全量读图/视频
+个人站点设计/关于佛牌的相关图片/可调用实际案例画面/2fee074f8f68ee4a4aebfe1c3023ab.JPG,image/jpeg,291464,284.6 KB,佛牌 / Terry Studio 案例,REFERENCE,P2,仅在 Terry Studio 房间需要挑具体实拍时,原始案例媒体；先按需抽样，不要全量读图/视频
+个人站点设计/关于佛牌的相关图片/可调用实际案例画面/1866b7f7b937d2cee0e98b23dca6d1.JPG,image/jpeg,219004,213.9 KB,佛牌 / Terry Studio 案例,REFERENCE,P2,仅在 Terry Studio 房间需要挑具体实拍时,原始案例媒体；先按需抽样，不要全量读图/视频
+个人站点设计/关于佛牌的相关图片/可调用实际案例画面/7ef852501f837613f6f2ac8afe6383.JPG,image/jpeg,591018,577.2 KB,佛牌 / Terry Studio 案例,REFERENCE,P2,仅在 Terry Studio 房间需要挑具体实拍时,原始案例媒体；先按需抽样，不要全量读图/视频
+个人站点设计/关于佛牌的相关图片/可调用实际案例画面/adc9518f1162b3db794b85e5f1855b.JPG,image/jpeg,639893,624.9 KB,佛牌 / Terry Studio 案例,REFERENCE,P2,仅在 Terry Studio 房间需要挑具体实拍时,原始案例媒体；先按需抽样，不要全量读图/视频
+个人站点设计/关于佛牌的相关图片/可调用实际案例画面/f662fdb9bdb1ca6cf6fc1ba5a38bdf.JPG,image/jpeg,613855,599.5 KB,佛牌 / Terry Studio 案例,REFERENCE,P2,仅在 Terry Studio 房间需要挑具体实拍时,原始案例媒体；先按需抽样，不要全量读图/视频
+个人站点设计/关于佛牌的相关图片/可调用实际案例画面/a15b57a5498039436d679fa97abfdb.MP4,video/mp4,1553253,1.5 MB,佛牌 / Terry Studio 案例,REFERENCE,P2,仅在 Terry Studio 房间需要挑具体实拍时,原始案例媒体；先按需抽样，不要全量读图/视频
+个人站点设计/关于佛牌的相关图片/可调用实际案例画面/89438accde72bedb83c37bf15f5834_livephoto.HEIC,image/heif,261219,255.1 KB,佛牌 / Terry Studio 案例,REFERENCE,P2,仅在 Terry Studio 房间需要挑具体实拍时,原始案例媒体；先按需抽样，不要全量读图/视频
+个人站点设计/关于佛牌的相关图片/可调用实际案例画面/006234f632d7c19b6091845c512527.JPG,image/jpeg,609528,595.2 KB,佛牌 / Terry Studio 案例,REFERENCE,P2,仅在 Terry Studio 房间需要挑具体实拍时,原始案例媒体；先按需抽样，不要全量读图/视频
+个人站点设计/关于佛牌的相关图片/可调用实际案例画面/6c1f63c6e9a08047853468283df600.JPG,image/jpeg,516493,504.4 KB,佛牌 / Terry Studio 案例,REFERENCE,P2,仅在 Terry Studio 房间需要挑具体实拍时,原始案例媒体；先按需抽样，不要全量读图/视频
+个人站点设计/关于佛牌的相关图片/可调用实际案例画面/f293107e8077ee03f057d9b5e6b8b9.JPG,image/jpeg,365033,356.5 KB,佛牌 / Terry Studio 案例,REFERENCE,P2,仅在 Terry Studio 房间需要挑具体实拍时,原始案例媒体；先按需抽样，不要全量读图/视频
+个人站点设计/关于佛牌的相关图片/可调用实际案例画面/1c04b640dd74417af41f791b1095ff.JPG,image/jpeg,246582,240.8 KB,佛牌 / Terry Studio 案例,REFERENCE,P2,仅在 Terry Studio 房间需要挑具体实拍时,原始案例媒体；先按需抽样，不要全量读图/视频
+个人站点设计/关于佛牌的相关图片/可调用实际案例画面/3fa083147ddd802a4f55b7403f09a0.JPG,image/jpeg,391203,382.0 KB,佛牌 / Terry Studio 案例,REFERENCE,P2,仅在 Terry Studio 房间需要挑具体实拍时,原始案例媒体；先按需抽样，不要全量读图/视频
+个人站点设计/关于佛牌的相关图片/可调用实际案例画面/0782d0163faa38efa4d4ff56af6fcc.JPG,image/jpeg,413882,404.2 KB,佛牌 / Terry Studio 案例,REFERENCE,P2,仅在 Terry Studio 房间需要挑具体实拍时,原始案例媒体；先按需抽样，不要全量读图/视频
+个人站点设计/关于佛牌的相关图片/可调用实际案例画面/3d237b0cdc9b6b3ec799e7551ae093.JPG,image/jpeg,612468,598.1 KB,佛牌 / Terry Studio 案例,REFERENCE,P2,仅在 Terry Studio 房间需要挑具体实拍时,原始案例媒体；先按需抽样，不要全量读图/视频
+个人站点设计/关于佛牌的相关图片/可调用实际案例画面/91418b17f54be9d3089dd2d6004d7d.JPG,image/jpeg,650748,635.5 KB,佛牌 / Terry Studio 案例,REFERENCE,P2,仅在 Terry Studio 房间需要挑具体实拍时,原始案例媒体；先按需抽样，不要全量读图/视频
+个人站点设计/关于佛牌的相关图片/可调用实际案例画面/7b78558766e248e984f18d481d0f92.JPG,image/jpeg,479875,468.6 KB,佛牌 / Terry Studio 案例,REFERENCE,P2,仅在 Terry Studio 房间需要挑具体实拍时,原始案例媒体；先按需抽样，不要全量读图/视频
+个人站点设计/关于佛牌的相关图片/可调用实际案例画面/4df71cbc63629a58f721c2d8c0a228.JPG,image/jpeg,281294,274.7 KB,佛牌 / Terry Studio 案例,REFERENCE,P2,仅在 Terry Studio 房间需要挑具体实拍时,原始案例媒体；先按需抽样，不要全量读图/视频
+个人站点设计/关于佛牌的相关图片/可调用实际案例画面/601d8fb59606c0cd43555536f1f5f4.JPG,image/jpeg,300900,293.8 KB,佛牌 / Terry Studio 案例,REFERENCE,P2,仅在 Terry Studio 房间需要挑具体实拍时,原始案例媒体；先按需抽样，不要全量读图/视频
+个人站点设计/关于佛牌的相关图片/可调用实际案例画面/1c97978c15d800bc0a03edd88067fc.JPG,image/jpeg,285145,278.5 KB,佛牌 / Terry Studio 案例,REFERENCE,P2,仅在 Terry Studio 房间需要挑具体实拍时,原始案例媒体；先按需抽样，不要全量读图/视频
+个人站点设计/关于佛牌的相关图片/可调用实际案例画面/photo_57478442.jpg,image/jpeg,391062,381.9 KB,佛牌 / Terry Studio 案例,REFERENCE,P2,仅在 Terry Studio 房间需要挑具体实拍时,原始案例媒体；先按需抽样，不要全量读图/视频
+个人站点设计/关于佛牌的相关图片/可调用实际案例画面/photo_A0ACE47B.jpg,image/jpeg,348847,340.7 KB,佛牌 / Terry Studio 案例,REFERENCE,P2,仅在 Terry Studio 房间需要挑具体实拍时,原始案例媒体；先按需抽样，不要全量读图/视频
+个人站点设计/关于佛牌的相关图片/可调用实际案例画面/photo_A2816C18.jpg,image/jpeg,243654,237.9 KB,佛牌 / Terry Studio 案例,REFERENCE,P2,仅在 Terry Studio 房间需要挑具体实拍时,原始案例媒体；先按需抽样，不要全量读图/视频
+个人站点设计/关于佛牌的相关图片/可调用实际案例画面/photo_B253755D.jpg,image/jpeg,501644,489.9 KB,佛牌 / Terry Studio 案例,REFERENCE,P2,仅在 Terry Studio 房间需要挑具体实拍时,原始案例媒体；先按需抽样，不要全量读图/视频
+个人站点设计/关于佛牌的相关图片/可调用实际案例画面/photo_C87A33AA.jpg,image/jpeg,360492,352.0 KB,佛牌 / Terry Studio 案例,REFERENCE,P2,仅在 Terry Studio 房间需要挑具体实拍时,原始案例媒体；先按需抽样，不要全量读图/视频
+个人站点设计/关于佛牌的相关图片/可调用实际案例画面/photo_C0327C96.jpg,image/jpeg,594867,580.9 KB,佛牌 / Terry Studio 案例,REFERENCE,P2,仅在 Terry Studio 房间需要挑具体实拍时,原始案例媒体；先按需抽样，不要全量读图/视频
+个人站点设计/关于佛牌的相关图片/可调用实际案例画面/photo_C1195005.jpg,image/jpeg,494444,482.9 KB,佛牌 / Terry Studio 案例,REFERENCE,P2,仅在 Terry Studio 房间需要挑具体实拍时,原始案例媒体；先按需抽样，不要全量读图/视频
+个人站点设计/关于佛牌的相关图片/可调用实际案例画面/photo_DD69D0E3.jpg,image/jpeg,348379,340.2 KB,佛牌 / Terry Studio 案例,REFERENCE,P2,仅在 Terry Studio 房间需要挑具体实拍时,原始案例媒体；先按需抽样，不要全量读图/视频
+个人站点设计/我的网站构想UI 设计库/风格参考/,folder,,,网站主空间 / UI,CURRENT,P1,确定主空间材质、毛绒 UI 语言时,当前毛绒视觉参考
+个人站点设计/我的网站构想UI 设计库/.DS_Store,application/octet-stream,8196,8.0 KB,系统文件,IGNORE,IGNORE,永不读取,macOS Finder 元数据
+个人站点设计/我的网站构想UI 设计库/我的网站构想.rtf,text/rtf,15608,15.2 KB,网站总体需求,DUPLICATE,IGNORE,默认不读取,与上层同名文件尺寸和修改时间一致；使用上层权威副本
+个人站点设计/我的网站构想UI 设计库/mainlinevedio1.MP4,video/mp4,6425110,6.1 MB,网站主空间 / UI,CURRENT_SOURCE,P1,实现主页 idle/主线视频时,主空间源视频组；已抽样确认其为人物在米白空间的待机画面
+个人站点设计/我的网站构想UI 设计库/mainlinevedio2.MP4,video/mp4,6494449,6.2 MB,网站主空间 / UI,CURRENT_SOURCE,P1,实现主页 idle/主线视频时,主空间源视频组；未在本轮逐帧深读
+个人站点设计/我的网站构想UI 设计库/mainlinevedio3.MP4,video/mp4,6442068,6.1 MB,网站主空间 / UI,CURRENT_SOURCE,P1,实现主页 idle/主线视频时,主空间源视频组；未在本轮逐帧深读
+个人站点设计/我的网站构想UI 设计库/main video4.MP4,video/mp4,5325223,5.1 MB,网站主空间 / UI,CURRENT_SOURCE,P1,实现主页 idle/主线视频时,主空间源视频组；未在本轮逐帧深读
+个人站点设计/我的网站构想UI 设计库/mainlinevedio5.mov,video/quicktime,6032657,5.8 MB,网站主空间 / UI,CURRENT_SOURCE,P1,实现主页 idle/主线视频时,主空间源视频组；未在本轮逐帧深读
+个人站点设计/我的网站构想UI 设计库/welcome zone.MP4,video/mp4,9523592,9.1 MB,网站主空间 / UI,CURRENT_SOURCE,P1,实现首次进入 Welcome 时,已抽样：人物从木马起身/跑来迎接；透明水晶物为旧占位，不应视作最终 UI
+个人站点设计/我的网站构想UI 设计库/ending bye.MP4,video/mp4,1559765,1.5 MB,网站主空间 / UI,CURRENT_SOURCE,P1,实现主动 Ending/Goodbye 时,已抽样：人物走近并挥手告别；透明水晶物为旧占位
+个人站点设计/我的网站构想UI 设计库/profile Harry style.MP4,video/mp4,1294373,1.2 MB,网站主空间 / UI,REFERENCE,P2,设计 Profile/About 房间展示方式时,独立页面风格参考；大字排版+人物主视觉，不是主页最终视觉
+个人站点设计/我的网站构想UI 设计库/风格参考/.DS_Store,application/octet-stream,6148,6.0 KB,系统文件,IGNORE,IGNORE,永不读取,macOS Finder 元数据
+个人站点设计/我的网站构想UI 设计库/风格参考/视频改造参考.PNG,image/png,3511741,3.3 MB,网站主空间 / UI,CURRENT,P1,处理主页视频毛绒化与 UI 融合时,关键当前参考：粉色毛绒空间 + 人物 + 毛绒立体 UI
+个人站点设计/我的网站构想UI 设计库/风格参考/UI 参考 3.JPG,image/jpeg,156234,152.6 KB,网站主空间 / UI,CURRENT,P1,设计毛绒消息/对话形 UI 时,粉色毛绒对话气泡造型参考
+个人站点设计/我的网站构想UI 设计库/风格参考/ui参考 2.JPG,image/jpeg,132177,129.1 KB,网站主空间 / UI,CURRENT,P1,设计毛绒通知/铃铛形 UI 时,绿色毛绒铃铛造型参考
+个人站点设计/我的网站构想UI 设计库/风格参考/UI 参考.JPG,image/jpeg,324624,317.0 KB,网站主空间 / UI,CURRENT,P1,设计毛绒动作/点赞类 UI 时,蓝色毛绒点赞造型参考
+个人站点设计/写的书封面和简介，会陆续增加数量/.DS_Store,application/octet-stream,6148,6.0 KB,系统文件,IGNORE,IGNORE,永不读取,macOS Finder 元数据
+个人站点设计/写的书封面和简介，会陆续增加数量/小说简介.md,text/markdown,6291,6.1 KB,小说,CURRENT,P1,整理 Novels 房间、书目、简介时,当前小说文本目录；包含有封面和暂未配封面的作品
+个人站点设计/写的书封面和简介，会陆续增加数量/《旧地图新世界》封面.png,image/png,3566918,3.4 MB,小说,CURRENT,P2,Novels 房间需要展示该书时,书封面素材；不要为了整理简介一次性全读图
+个人站点设计/写的书封面和简介，会陆续增加数量/《锚点之后》封面.png,image/png,3311649,3.2 MB,小说,CURRENT,P2,Novels 房间需要展示该书时,书封面素材；不要为了整理简介一次性全读图
+个人站点设计/写的书封面和简介，会陆续增加数量/《请保留底噪》封面.png,image/png,2916492,2.8 MB,小说,CURRENT,P2,Novels 房间需要展示该书时,书封面素材；不要为了整理简介一次性全读图
+个人站点设计/写的书封面和简介，会陆续增加数量/《请在风里签字》封面.png,image/png,2443330,2.3 MB,小说,CURRENT,P2,Novels 房间需要展示该书时,书封面素材；不要为了整理简介一次性全读图
+个人站点设计/写的书封面和简介，会陆续增加数量/《沙吞无渡》封面.jpg,image/jpeg,2891200,2.8 MB,小说,CURRENT,P2,Novels 房间需要展示该书时,书封面素材；不要为了整理简介一次性全读图
+个人站点设计/写的书封面和简介，会陆续增加数量/小说《回蓝》封面.PNG,image/png,3216699,3.1 MB,小说,CURRENT,P2,Novels 房间需要展示该书时,书封面素材；不要为了整理简介一次性全读图
+个人站点设计/写的书封面和简介，会陆续增加数量/《曼谷没有暹罗猫》封面.png,image/png,3172688,3.0 MB,小说,CURRENT,P2,Novels 房间需要展示该书时,书封面素材；不要为了整理简介一次性全读图
+个人站点设计/写的书封面和简介，会陆续增加数量/《你看得见天空的颜色吗》封面.png,image/png,3106766,3.0 MB,小说,CURRENT,P2,Novels 房间需要展示该书时,书封面素材；不要为了整理简介一次性全读图
+个人站点设计/个人简历+案例展示/以前自己做的淘宝店/,folder,,,Work / 早期电商,REFERENCE,P2,整理早期创业/电商经历时,旧项目素材
+个人站点设计/个人简历+案例展示/开摄影工作室时拍的，很古早了，有些我觉得挺有感觉，拿来做背景墙也不错/,folder,,,Work / 摄影,REFERENCE,P2,需要摄影背景墙或早期摄影经历时,古早摄影素材，可用于氛围背景
+个人站点设计/个人简历+案例展示/VK 百男大秀/,folder,,,Work / 活动,REFERENCE,P2,整理具体活动案例时,活动案例图
+个人站点设计/个人简历+案例展示/经手的部分活动和项目/,folder,,,Work / 项目案例,REFERENCE,P2,Work 房间挑选项目案例时,项目/活动原始证据池
+个人站点设计/个人简历+案例展示/主持经历/,folder,,,Work / 主持,REFERENCE,P2,About/Work 需要主持经历时,主持经历图片
+个人站点设计/个人简历+案例展示/语者项目全操盘/,folder,,,Work / 语者,REFERENCE,P1,制作重点案例《语者》时,有高价值案例证据，但含超大视频
+个人站点设计/个人简历+案例展示/上海时装周/,folder,,,Work / 活动,REFERENCE,P2,整理具体活动案例时,上海时装周图片
+个人站点设计/个人简历+案例展示/.DS_Store,application/octet-stream,14340,14.0 KB,系统文件,IGNORE,IGNORE,永不读取,macOS Finder 元数据
+个人站点设计/个人简历+案例展示/郑超简历2024.pdf,application/pdf,481976,470.7 KB,About / Work,REFERENCE,P1,整理个人简介、履历、项目历史时,高价值事实源，但为 2024 版；年龄、所在地、联系方式等时效字段不要直接当 2026 当前值
+个人站点设计/个人简历+案例展示/以前自己做的淘宝店/施华洛世奇 120 周年/,folder,,,Work / 早期电商,REFERENCE,P2,整理早期电商案例时,子项目图片
+个人站点设计/个人简历+案例展示/以前自己做的淘宝店/.DS_Store,application/octet-stream,6148,6.0 KB,系统文件,IGNORE,IGNORE,永不读取,macOS Finder 元数据
+个人站点设计/个人简历+案例展示/以前自己做的淘宝店/ccea1f3a5557a5264c7c21d3e8e352.JPG,image/jpeg,100843,98.5 KB,Work / 早期电商,REFERENCE,P2,早期电商案例需要画面时,原始项目图，不默认读取
+个人站点设计/个人简历+案例展示/以前自己做的淘宝店/ce9b37e94a9f53390107348a11eff3.JPG,image/jpeg,88494,86.4 KB,Work / 早期电商,REFERENCE,P2,早期电商案例需要画面时,原始项目图，不默认读取
+个人站点设计/个人简历+案例展示/以前自己做的淘宝店/a5b9fe9cc8f1831ae5af3aa50a7ea6.JPG,image/jpeg,59705,58.3 KB,Work / 早期电商,REFERENCE,P2,早期电商案例需要画面时,原始项目图，不默认读取
+个人站点设计/个人简历+案例展示/以前自己做的淘宝店/d3af21f3b694d41788d31a17aa28d0.JPG,image/jpeg,52187,51.0 KB,Work / 早期电商,REFERENCE,P2,早期电商案例需要画面时,原始项目图，不默认读取
+个人站点设计/个人简历+案例展示/以前自己做的淘宝店/d0cdc0434063bc117efc59c39cc623.JPG,image/jpeg,49269,48.1 KB,Work / 早期电商,REFERENCE,P2,早期电商案例需要画面时,原始项目图，不默认读取
+个人站点设计/个人简历+案例展示/以前自己做的淘宝店/c63edb4f7db02f1b13c2d4d78442ff.JPG,image/jpeg,39393,38.5 KB,Work / 早期电商,REFERENCE,P2,早期电商案例需要画面时,原始项目图，不默认读取
+个人站点设计/个人简历+案例展示/以前自己做的淘宝店/施华洛世奇 120 周年/e6202da9767ca9a554afb92f69c5cb.JPG,image/jpeg,41554,40.6 KB,Work / 早期电商,REFERENCE,P2,施华洛世奇案例需要画面时,原始项目图，不默认读取
+个人站点设计/个人简历+案例展示/以前自己做的淘宝店/施华洛世奇 120 周年/b21e46fd44fbbf91ba078ee8ae76f6.JPG,image/jpeg,60348,58.9 KB,Work / 早期电商,REFERENCE,P2,施华洛世奇案例需要画面时,原始项目图，不默认读取
+个人站点设计/个人简历+案例展示/以前自己做的淘宝店/施华洛世奇 120 周年/fb473500dd610ed6248313cbe85a15.JPG,image/jpeg,62237,60.8 KB,Work / 早期电商,REFERENCE,P2,施华洛世奇案例需要画面时,原始项目图，不默认读取
+个人站点设计/个人简历+案例展示/以前自己做的淘宝店/施华洛世奇 120 周年/02b0bd1d8796c94bc0fbe4a3507c6b.JPG,image/jpeg,32555,31.8 KB,Work / 早期电商,REFERENCE,P2,施华洛世奇案例需要画面时,原始项目图，不默认读取
+个人站点设计/个人简历+案例展示/以前自己做的淘宝店/施华洛世奇 120 周年/064c44946a2edbc8e9941ca5cb0526.JPG,image/jpeg,50089,48.9 KB,Work / 早期电商,REFERENCE,P2,施华洛世奇案例需要画面时,原始项目图，不默认读取
+个人站点设计/个人简历+案例展示/以前自己做的淘宝店/施华洛世奇 120 周年/927842b1a31839ea2fcd27e2515999.JPG,image/jpeg,42737,41.7 KB,Work / 早期电商,REFERENCE,P2,施华洛世奇案例需要画面时,原始项目图，不默认读取
+个人站点设计/个人简历+案例展示/开摄影工作室时拍的，很古早了，有些我觉得挺有感觉，拿来做背景墙也不错/eab35670a852222a5315e8abbf48ec.JPG,image/jpeg,36872,36.0 KB,Work / 摄影,REFERENCE,P2,需要早期摄影背景/案例时,旧摄影原片；抽样即可，不全读
+个人站点设计/个人简历+案例展示/开摄影工作室时拍的，很古早了，有些我觉得挺有感觉，拿来做背景墙也不错/08053d254bce5c02c4aa723f995bd3.JPG,image/jpeg,45562,44.5 KB,Work / 摄影,REFERENCE,P2,需要早期摄影背景/案例时,旧摄影原片；抽样即可，不全读
+个人站点设计/个人简历+案例展示/开摄影工作室时拍的，很古早了，有些我觉得挺有感觉，拿来做背景墙也不错/1e5e293c55826d3832108dd72c39a7.JPG,image/jpeg,47178,46.1 KB,Work / 摄影,REFERENCE,P2,需要早期摄影背景/案例时,旧摄影原片；抽样即可，不全读
+个人站点设计/个人简历+案例展示/开摄影工作室时拍的，很古早了，有些我觉得挺有感觉，拿来做背景墙也不错/0bdce017dc4a3a6d35e983c821b2e7.JPG,image/jpeg,42030,41.0 KB,Work / 摄影,REFERENCE,P2,需要早期摄影背景/案例时,旧摄影原片；抽样即可，不全读
+个人站点设计/个人简历+案例展示/开摄影工作室时拍的，很古早了，有些我觉得挺有感觉，拿来做背景墙也不错/439149dbc134965cc28050c9c10e34.JPG,image/jpeg,66961,65.4 KB,Work / 摄影,REFERENCE,P2,需要早期摄影背景/案例时,旧摄影原片；抽样即可，不全读
+个人站点设计/个人简历+案例展示/开摄影工作室时拍的，很古早了，有些我觉得挺有感觉，拿来做背景墙也不错/f4ba7cd0531215afb1b1b77269ad5f.JPG,image/jpeg,189505,185.1 KB,Work / 摄影,REFERENCE,P2,需要早期摄影背景/案例时,旧摄影原片；抽样即可，不全读
+个人站点设计/个人简历+案例展示/开摄影工作室时拍的，很古早了，有些我觉得挺有感觉，拿来做背景墙也不错/1b6f432150381a0c33ab45187a4c80.JPG,image/jpeg,175061,171.0 KB,Work / 摄影,REFERENCE,P2,需要早期摄影背景/案例时,旧摄影原片；抽样即可，不全读
+个人站点设计/个人简历+案例展示/开摄影工作室时拍的，很古早了，有些我觉得挺有感觉，拿来做背景墙也不错/7fff1637ea0b0fb22a7bce3f5f2026.JPG,image/jpeg,133973,130.8 KB,Work / 摄影,REFERENCE,P2,需要早期摄影背景/案例时,旧摄影原片；抽样即可，不全读
+个人站点设计/个人简历+案例展示/开摄影工作室时拍的，很古早了，有些我觉得挺有感觉，拿来做背景墙也不错/a5954792120a611bbf6e67e44a487b.JPG,image/jpeg,145102,141.7 KB,Work / 摄影,REFERENCE,P2,需要早期摄影背景/案例时,旧摄影原片；抽样即可，不全读
+个人站点设计/个人简历+案例展示/开摄影工作室时拍的，很古早了，有些我觉得挺有感觉，拿来做背景墙也不错/6af31152227723151260c332724312.JPG,image/jpeg,141786,138.5 KB,Work / 摄影,REFERENCE,P2,需要早期摄影背景/案例时,旧摄影原片；抽样即可，不全读
+个人站点设计/个人简历+案例展示/开摄影工作室时拍的，很古早了，有些我觉得挺有感觉，拿来做背景墙也不错/45305bc954b8f9eb9c96716a14445d.JPG,image/jpeg,146934,143.5 KB,Work / 摄影,REFERENCE,P2,需要早期摄影背景/案例时,旧摄影原片；抽样即可，不全读
+个人站点设计/个人简历+案例展示/开摄影工作室时拍的，很古早了，有些我觉得挺有感觉，拿来做背景墙也不错/b864fed826e1dd5ad9363f3197bb5c.JPG,image/jpeg,45792,44.7 KB,Work / 摄影,REFERENCE,P2,需要早期摄影背景/案例时,旧摄影原片；抽样即可，不全读
+个人站点设计/个人简历+案例展示/开摄影工作室时拍的，很古早了，有些我觉得挺有感觉，拿来做背景墙也不错/514701e1e918c93030c6951eb45c7e.JPG,image/jpeg,125615,122.7 KB,Work / 摄影,REFERENCE,P2,需要早期摄影背景/案例时,旧摄影原片；抽样即可，不全读
+个人站点设计/个人简历+案例展示/开摄影工作室时拍的，很古早了，有些我觉得挺有感觉，拿来做背景墙也不错/f0f158a819244e71cb1c61f7c12e40.JPG,image/jpeg,147532,144.1 KB,Work / 摄影,REFERENCE,P2,需要早期摄影背景/案例时,旧摄影原片；抽样即可，不全读
+个人站点设计/个人简历+案例展示/开摄影工作室时拍的，很古早了，有些我觉得挺有感觉，拿来做背景墙也不错/1b6ca72cf5a3825febf7573505c7ac.JPG,image/jpeg,110886,108.3 KB,Work / 摄影,REFERENCE,P2,需要早期摄影背景/案例时,旧摄影原片；抽样即可，不全读
+个人站点设计/个人简历+案例展示/开摄影工作室时拍的，很古早了，有些我觉得挺有感觉，拿来做背景墙也不错/978cb9458f0d78fd533b8bf15c156f.JPG,image/jpeg,98498,96.2 KB,Work / 摄影,REFERENCE,P2,需要早期摄影背景/案例时,旧摄影原片；抽样即可，不全读
+个人站点设计/个人简历+案例展示/开摄影工作室时拍的，很古早了，有些我觉得挺有感觉，拿来做背景墙也不错/d2bca81caa80e99d9c63d4ad981d06.JPG,image/jpeg,60502,59.1 KB,Work / 摄影,REFERENCE,P2,需要早期摄影背景/案例时,旧摄影原片；抽样即可，不全读
+个人站点设计/个人简历+案例展示/开摄影工作室时拍的，很古早了，有些我觉得挺有感觉，拿来做背景墙也不错/a7d7502c4feee4a035686a0c34aed4.JPG,image/jpeg,95399,93.2 KB,Work / 摄影,REFERENCE,P2,需要早期摄影背景/案例时,旧摄影原片；抽样即可，不全读
+个人站点设计/个人简历+案例展示/开摄影工作室时拍的，很古早了，有些我觉得挺有感觉，拿来做背景墙也不错/fbaf555d5c28e2fdda49ab1aee5d16.JPG,image/jpeg,96976,94.7 KB,Work / 摄影,REFERENCE,P2,需要早期摄影背景/案例时,旧摄影原片；抽样即可，不全读
+个人站点设计/个人简历+案例展示/开摄影工作室时拍的，很古早了，有些我觉得挺有感觉，拿来做背景墙也不错/e13a7b1dae3eb0b6937c6ae48c7c47.JPG,image/jpeg,90558,88.4 KB,Work / 摄影,REFERENCE,P2,需要早期摄影背景/案例时,旧摄影原片；抽样即可，不全读
+个人站点设计/个人简历+案例展示/开摄影工作室时拍的，很古早了，有些我觉得挺有感觉，拿来做背景墙也不错/bf07452a9fa2546edda70b8bc9247e.JPG,image/jpeg,85564,83.6 KB,Work / 摄影,REFERENCE,P2,需要早期摄影背景/案例时,旧摄影原片；抽样即可，不全读
+个人站点设计/个人简历+案例展示/开摄影工作室时拍的，很古早了，有些我觉得挺有感觉，拿来做背景墙也不错/0f7531517d645a40e5d29d343ae548.JPG,image/jpeg,258257,252.2 KB,Work / 摄影,REFERENCE,P2,需要早期摄影背景/案例时,旧摄影原片；抽样即可，不全读
+个人站点设计/个人简历+案例展示/开摄影工作室时拍的，很古早了，有些我觉得挺有感觉，拿来做背景墙也不错/0fd73f0fd3d7a68e992c2a67a68ad2.JPG,image/jpeg,91445,89.3 KB,Work / 摄影,REFERENCE,P2,需要早期摄影背景/案例时,旧摄影原片；抽样即可，不全读
+个人站点设计/个人简历+案例展示/开摄影工作室时拍的，很古早了，有些我觉得挺有感觉，拿来做背景墙也不错/ccf9933355d060761d156881984159.JPG,image/jpeg,82899,81.0 KB,Work / 摄影,REFERENCE,P2,需要早期摄影背景/案例时,旧摄影原片；抽样即可，不全读
+个人站点设计/个人简历+案例展示/开摄影工作室时拍的，很古早了，有些我觉得挺有感觉，拿来做背景墙也不错/a8a32a7c3c58eaefcec1b2e41ea4a1.JPG,image/jpeg,66145,64.6 KB,Work / 摄影,REFERENCE,P2,需要早期摄影背景/案例时,旧摄影原片；抽样即可，不全读
+个人站点设计/个人简历+案例展示/开摄影工作室时拍的，很古早了，有些我觉得挺有感觉，拿来做背景墙也不错/d3f5ab72b65fcf1a3db625b0544af7.JPG,image/jpeg,106438,103.9 KB,Work / 摄影,REFERENCE,P2,需要早期摄影背景/案例时,旧摄影原片；抽样即可，不全读
+个人站点设计/个人简历+案例展示/开摄影工作室时拍的，很古早了，有些我觉得挺有感觉，拿来做背景墙也不错/83ab4eeac30527e17875c52cc5896e.JPG,image/jpeg,95092,92.9 KB,Work / 摄影,REFERENCE,P2,需要早期摄影背景/案例时,旧摄影原片；抽样即可，不全读
+个人站点设计/个人简历+案例展示/开摄影工作室时拍的，很古早了，有些我觉得挺有感觉，拿来做背景墙也不错/1eb4ee5ece6b9ce7c2738291eb8dbc.JPG,image/jpeg,76244,74.5 KB,Work / 摄影,REFERENCE,P2,需要早期摄影背景/案例时,旧摄影原片；抽样即可，不全读
+个人站点设计/个人简历+案例展示/开摄影工作室时拍的，很古早了，有些我觉得挺有感觉，拿来做背景墙也不错/1000ce58b92f8428710e84265af2ce.JPG,image/jpeg,129080,126.1 KB,Work / 摄影,REFERENCE,P2,需要早期摄影背景/案例时,旧摄影原片；抽样即可，不全读
+个人站点设计/个人简历+案例展示/开摄影工作室时拍的，很古早了，有些我觉得挺有感觉，拿来做背景墙也不错/b45d667e0051b8d5abd37550a0773d.JPG,image/jpeg,34385,33.6 KB,Work / 摄影,REFERENCE,P2,需要早期摄影背景/案例时,旧摄影原片；抽样即可，不全读
+个人站点设计/个人简历+案例展示/开摄影工作室时拍的，很古早了，有些我觉得挺有感觉，拿来做背景墙也不错/d13a200a7dedd8b139b4a28ca5e8f5.JPG,image/jpeg,112143,109.5 KB,Work / 摄影,REFERENCE,P2,需要早期摄影背景/案例时,旧摄影原片；抽样即可，不全读
+个人站点设计/个人简历+案例展示/VK 百男大秀/c458f56927f77c997fb6aca08f7361.JPG,image/jpeg,106490,104.0 KB,Work / 活动,REFERENCE,P2,VK 百男大秀案例需要画面时,原始活动图，不默认读取
+个人站点设计/个人简历+案例展示/VK 百男大秀/c744521e9f540ab68634c9adfe5257.JPG,image/jpeg,133196,130.1 KB,Work / 活动,REFERENCE,P2,VK 百男大秀案例需要画面时,原始活动图，不默认读取
+个人站点设计/个人简历+案例展示/VK 百男大秀/494cb5a2f8af9a002bdcba112549e2.JPG,image/jpeg,178954,174.8 KB,Work / 活动,REFERENCE,P2,VK 百男大秀案例需要画面时,原始活动图，不默认读取
+个人站点设计/个人简历+案例展示/VK 百男大秀/b6e80bd50785265e8b4a6bce26e60e.JPG,image/jpeg,105994,103.5 KB,Work / 活动,REFERENCE,P2,VK 百男大秀案例需要画面时,原始活动图，不默认读取
+个人站点设计/个人简历+案例展示/经手的部分活动和项目/21158b7d3e36ed37ecb08fb7c05123.JPG,image/jpeg,378292,369.4 KB,Work / 项目案例,REFERENCE,P2,Work 房间明确要挑项目证据时,大量散列命名原始媒体；默认按项目需求抽样，禁止整目录读取
+个人站点设计/个人简历+案例展示/经手的部分活动和项目/fcce09efdafb9f0ff447c8ff747abf.JPG,image/jpeg,211504,206.5 KB,Work / 项目案例,REFERENCE,P2,Work 房间明确要挑项目证据时,大量散列命名原始媒体；默认按项目需求抽样，禁止整目录读取
+个人站点设计/个人简历+案例展示/经手的部分活动和项目/71e882227243c1185f4692d16b0f31.JPG,image/jpeg,238771,233.2 KB,Work / 项目案例,REFERENCE,P2,Work 房间明确要挑项目证据时,大量散列命名原始媒体；默认按项目需求抽样，禁止整目录读取
+个人站点设计/个人简历+案例展示/经手的部分活动和项目/1818309a811dc59eb52009068a3de9.MP4,video/mp4,1177986,1.1 MB,Work / 项目案例,REFERENCE,P2,Work 房间明确要挑项目证据时,大量散列命名原始媒体；默认按项目需求抽样，禁止整目录读取
+个人站点设计/个人简历+案例展示/经手的部分活动和项目/b8250c7b3f909fc81a4480fe267094.JPG,image/jpeg,468902,457.9 KB,Work / 项目案例,REFERENCE,P2,Work 房间明确要挑项目证据时,大量散列命名原始媒体；默认按项目需求抽样，禁止整目录读取
+个人站点设计/个人简历+案例展示/经手的部分活动和项目/0d7a5728260d0c3362c469b0b68740.MP4,video/mp4,2130147,2.0 MB,Work / 项目案例,REFERENCE,P2,Work 房间明确要挑项目证据时,大量散列命名原始媒体；默认按项目需求抽样，禁止整目录读取
+个人站点设计/个人简历+案例展示/经手的部分活动和项目/6494f0bb575cb13d12ecc05ec1f180.MP4,video/mp4,1070242,1.0 MB,Work / 项目案例,REFERENCE,P2,Work 房间明确要挑项目证据时,大量散列命名原始媒体；默认按项目需求抽样，禁止整目录读取
+个人站点设计/个人简历+案例展示/经手的部分活动和项目/52e18896c5f7e80b73c9e5ade7e871.JPG,image/jpeg,595137,581.2 KB,Work / 项目案例,REFERENCE,P2,Work 房间明确要挑项目证据时,大量散列命名原始媒体；默认按项目需求抽样，禁止整目录读取
+个人站点设计/个人简历+案例展示/经手的部分活动和项目/0c825a91c775abdacb50e595dc8023.JPG,image/jpeg,323831,316.2 KB,Work / 项目案例,REFERENCE,P2,Work 房间明确要挑项目证据时,大量散列命名原始媒体；默认按项目需求抽样，禁止整目录读取
+个人站点设计/个人简历+案例展示/经手的部分活动和项目/416ed53a861e9625526da024e629e8.MP4,video/mp4,1133798,1.1 MB,Work / 项目案例,REFERENCE,P2,Work 房间明确要挑项目证据时,大量散列命名原始媒体；默认按项目需求抽样，禁止整目录读取
+个人站点设计/个人简历+案例展示/经手的部分活动和项目/d180cdd411195783e0396987c14aea.MP4,video/mp4,652975,637.7 KB,Work / 项目案例,REFERENCE,P2,Work 房间明确要挑项目证据时,大量散列命名原始媒体；默认按项目需求抽样，禁止整目录读取
+个人站点设计/个人简历+案例展示/经手的部分活动和项目/2869861e540accae46c032d80ded08.MP4,video/mp4,1854165,1.8 MB,Work / 项目案例,REFERENCE,P2,Work 房间明确要挑项目证据时,大量散列命名原始媒体；默认按项目需求抽样，禁止整目录读取
+个人站点设计/个人简历+案例展示/经手的部分活动和项目/41fd000a1873663bce8ced85eb3b79.JPG,image/jpeg,557370,544.3 KB,Work / 项目案例,REFERENCE,P2,Work 房间明确要挑项目证据时,大量散列命名原始媒体；默认按项目需求抽样，禁止整目录读取
+个人站点设计/个人简历+案例展示/经手的部分活动和项目/ca8e0cb39b17a90f9d05bfeb5a5d42.JPG,image/jpeg,324639,317.0 KB,Work / 项目案例,REFERENCE,P2,Work 房间明确要挑项目证据时,大量散列命名原始媒体；默认按项目需求抽样，禁止整目录读取
+个人站点设计/个人简历+案例展示/经手的部分活动和项目/0549f66d984a721a6a752c7e507f69.JPG,image/jpeg,267202,260.9 KB,Work / 项目案例,REFERENCE,P2,Work 房间明确要挑项目证据时,大量散列命名原始媒体；默认按项目需求抽样，禁止整目录读取
+个人站点设计/个人简历+案例展示/经手的部分活动和项目/44c6930bfb0b1c004699fbbabb450a.JPG,image/jpeg,213082,208.1 KB,Work / 项目案例,REFERENCE,P2,Work 房间明确要挑项目证据时,大量散列命名原始媒体；默认按项目需求抽样，禁止整目录读取
+个人站点设计/个人简历+案例展示/经手的部分活动和项目/75181c877ff1f66330e43c52caaba0.JPG,image/jpeg,410730,401.1 KB,Work / 项目案例,REFERENCE,P2,Work 房间明确要挑项目证据时,大量散列命名原始媒体；默认按项目需求抽样，禁止整目录读取
+个人站点设计/个人简历+案例展示/经手的部分活动和项目/7886a53e40103b48f86221881d97fd.JPG,image/jpeg,315507,308.1 KB,Work / 项目案例,REFERENCE,P2,Work 房间明确要挑项目证据时,大量散列命名原始媒体；默认按项目需求抽样，禁止整目录读取
+个人站点设计/个人简历+案例展示/经手的部分活动和项目/ff5b5a48ae2823cd205dd85dc11024.JPG,image/jpeg,405206,395.7 KB,Work / 项目案例,REFERENCE,P2,Work 房间明确要挑项目证据时,大量散列命名原始媒体；默认按项目需求抽样，禁止整目录读取
+个人站点设计/个人简历+案例展示/经手的部分活动和项目/16e977ed516582d3a7ff4202195baa.JPG,image/jpeg,376575,367.7 KB,Work / 项目案例,REFERENCE,P2,Work 房间明确要挑项目证据时,大量散列命名原始媒体；默认按项目需求抽样，禁止整目录读取
+个人站点设计/个人简历+案例展示/经手的部分活动和项目/7d8fadb9abdab2dd8e07a73347ed8a.MP4,video/mp4,2198823,2.1 MB,Work / 项目案例,REFERENCE,P2,Work 房间明确要挑项目证据时,大量散列命名原始媒体；默认按项目需求抽样，禁止整目录读取
+个人站点设计/个人简历+案例展示/经手的部分活动和项目/ec28632cf3167f8dac5cf8d2ffff1f.JPG,image/jpeg,268787,262.5 KB,Work / 项目案例,REFERENCE,P2,Work 房间明确要挑项目证据时,大量散列命名原始媒体；默认按项目需求抽样，禁止整目录读取
+个人站点设计/个人简历+案例展示/经手的部分活动和项目/b40551981f6005d92a361b84fcc26d.JPG,image/jpeg,242973,237.3 KB,Work / 项目案例,REFERENCE,P2,Work 房间明确要挑项目证据时,大量散列命名原始媒体；默认按项目需求抽样，禁止整目录读取
+个人站点设计/个人简历+案例展示/经手的部分活动和项目/e845e9df42a35ebde590f2cb82dd86.JPG,image/jpeg,852173,832.2 KB,Work / 项目案例,REFERENCE,P2,Work 房间明确要挑项目证据时,大量散列命名原始媒体；默认按项目需求抽样，禁止整目录读取
+个人站点设计/个人简历+案例展示/经手的部分活动和项目/745827c3890d97b4ea784cd638ad0d.JPG,image/jpeg,2219107,2.1 MB,Work / 项目案例,REFERENCE,P2,Work 房间明确要挑项目证据时,大量散列命名原始媒体；默认按项目需求抽样，禁止整目录读取
+个人站点设计/个人简历+案例展示/经手的部分活动和项目/73bf005e750d5b3c4c5576d48ca622.JPG,image/jpeg,1446553,1.4 MB,Work / 项目案例,REFERENCE,P2,Work 房间明确要挑项目证据时,大量散列命名原始媒体；默认按项目需求抽样，禁止整目录读取
+个人站点设计/个人简历+案例展示/经手的部分活动和项目/478545d187e09b83b6b063a5916f8a.JPG,image/jpeg,1228209,1.2 MB,Work / 项目案例,REFERENCE,P2,Work 房间明确要挑项目证据时,大量散列命名原始媒体；默认按项目需求抽样，禁止整目录读取
+个人站点设计/个人简历+案例展示/经手的部分活动和项目/68abd7651ef7356e574b154df8e8c8.JPG,image/jpeg,931403,909.6 KB,Work / 项目案例,REFERENCE,P2,Work 房间明确要挑项目证据时,大量散列命名原始媒体；默认按项目需求抽样，禁止整目录读取
+个人站点设计/个人简历+案例展示/经手的部分活动和项目/d275d95730bc4473a239accf5a201b.JPG,image/jpeg,1568055,1.5 MB,Work / 项目案例,REFERENCE,P2,Work 房间明确要挑项目证据时,大量散列命名原始媒体；默认按项目需求抽样，禁止整目录读取
+个人站点设计/个人简历+案例展示/经手的部分活动和项目/4b8d21468b31e380151d63469e743e.JPG,image/jpeg,1401924,1.3 MB,Work / 项目案例,REFERENCE,P2,Work 房间明确要挑项目证据时,大量散列命名原始媒体；默认按项目需求抽样，禁止整目录读取
+个人站点设计/个人简历+案例展示/经手的部分活动和项目/1d2cd84341f44fddc61e56ae155469.JPG,image/jpeg,96612,94.3 KB,Work / 项目案例,REFERENCE,P2,Work 房间明确要挑项目证据时,大量散列命名原始媒体；默认按项目需求抽样，禁止整目录读取
+个人站点设计/个人简历+案例展示/经手的部分活动和项目/74b3c8c28a44cf778e5ba8b16a9abd.JPG,image/jpeg,152066,148.5 KB,Work / 项目案例,REFERENCE,P2,Work 房间明确要挑项目证据时,大量散列命名原始媒体；默认按项目需求抽样，禁止整目录读取
+个人站点设计/个人简历+案例展示/经手的部分活动和项目/325267b4d0b8d67242b148e5ee466d.JPG,image/jpeg,297341,290.4 KB,Work / 项目案例,REFERENCE,P2,Work 房间明确要挑项目证据时,大量散列命名原始媒体；默认按项目需求抽样，禁止整目录读取
+个人站点设计/个人简历+案例展示/经手的部分活动和项目/c2d5fdc41dbd462806819799664e50.JPG,image/jpeg,180265,176.0 KB,Work / 项目案例,REFERENCE,P2,Work 房间明确要挑项目证据时,大量散列命名原始媒体；默认按项目需求抽样，禁止整目录读取
+个人站点设计/个人简历+案例展示/经手的部分活动和项目/459cc1c71cc843326c2625c786201d.JPG,image/jpeg,172584,168.5 KB,Work / 项目案例,REFERENCE,P2,Work 房间明确要挑项目证据时,大量散列命名原始媒体；默认按项目需求抽样，禁止整目录读取
+个人站点设计/个人简历+案例展示/经手的部分活动和项目/a6e1e6405dae1deeb11e9f92bbe921.JPG,image/jpeg,531602,519.1 KB,Work / 项目案例,REFERENCE,P2,Work 房间明确要挑项目证据时,大量散列命名原始媒体；默认按项目需求抽样，禁止整目录读取
+个人站点设计/个人简历+案例展示/经手的部分活动和项目/e7cc003f39b3f49114a41b0582b68d.JPG,image/jpeg,1211335,1.2 MB,Work / 项目案例,REFERENCE,P2,Work 房间明确要挑项目证据时,大量散列命名原始媒体；默认按项目需求抽样，禁止整目录读取
+个人站点设计/个人简历+案例展示/经手的部分活动和项目/f7aa2fc873e2253e0459b6b7fd9eaf.JPG,image/jpeg,932587,910.7 KB,Work / 项目案例,REFERENCE,P2,Work 房间明确要挑项目证据时,大量散列命名原始媒体；默认按项目需求抽样，禁止整目录读取
+个人站点设计/个人简历+案例展示/经手的部分活动和项目/2f2b42d8e8f50bea2c7d299a59c702.JPG,image/jpeg,92857,90.7 KB,Work / 项目案例,REFERENCE,P2,Work 房间明确要挑项目证据时,大量散列命名原始媒体；默认按项目需求抽样，禁止整目录读取
+个人站点设计/个人简历+案例展示/经手的部分活动和项目/1f224962793d1aeaaea7af019271e1.JPG,image/jpeg,87905,85.8 KB,Work / 项目案例,REFERENCE,P2,Work 房间明确要挑项目证据时,大量散列命名原始媒体；默认按项目需求抽样，禁止整目录读取
+个人站点设计/个人简历+案例展示/经手的部分活动和项目/da99b3085d33b717d98d7a0cb83042.JPG,image/jpeg,1178309,1.1 MB,Work / 项目案例,REFERENCE,P2,Work 房间明确要挑项目证据时,大量散列命名原始媒体；默认按项目需求抽样，禁止整目录读取
+个人站点设计/个人简历+案例展示/经手的部分活动和项目/0ec131785706dc4ec6a7140d85067a.JPG,image/jpeg,1296797,1.2 MB,Work / 项目案例,REFERENCE,P2,Work 房间明确要挑项目证据时,大量散列命名原始媒体；默认按项目需求抽样，禁止整目录读取
+个人站点设计/个人简历+案例展示/主持经历/f28af8b2bd8383d6909941be9909a5.JPG,image/jpeg,35594,34.8 KB,Work / 主持,REFERENCE,P2,需要展示主持经历时,主持经历图片；抽样展示即可
+个人站点设计/个人简历+案例展示/主持经历/6d463cec7c5faf084ea4c58bbae745.JPG,image/jpeg,45936,44.9 KB,Work / 主持,REFERENCE,P2,需要展示主持经历时,主持经历图片；抽样展示即可
+个人站点设计/个人简历+案例展示/主持经历/202a93bd6cf1a4b88ec7ee93c18741.JPG,image/jpeg,74701,73.0 KB,Work / 主持,REFERENCE,P2,需要展示主持经历时,主持经历图片；抽样展示即可
+个人站点设计/个人简历+案例展示/主持经历/47e285cd81576ab6696456cf05510b.JPG,image/jpeg,63090,61.6 KB,Work / 主持,REFERENCE,P2,需要展示主持经历时,主持经历图片；抽样展示即可
+个人站点设计/个人简历+案例展示/主持经历/a0341baeff4ff58af4970c1209a5fa.JPG,image/jpeg,25199,24.6 KB,Work / 主持,REFERENCE,P2,需要展示主持经历时,主持经历图片；抽样展示即可
+个人站点设计/个人简历+案例展示/主持经历/f02922507a0e98eae1fa13c1cd7b51.JPG,image/jpeg,45606,44.5 KB,Work / 主持,REFERENCE,P2,需要展示主持经历时,主持经历图片；抽样展示即可
+个人站点设计/个人简历+案例展示/主持经历/c0d23b6ae35d844e2e6021aefaa84d.JPG,image/jpeg,44784,43.7 KB,Work / 主持,REFERENCE,P2,需要展示主持经历时,主持经历图片；抽样展示即可
+个人站点设计/个人简历+案例展示/语者项目全操盘/.DS_Store,application/octet-stream,8196,8.0 KB,系统文件,IGNORE,IGNORE,永不读取,macOS Finder 元数据
+个人站点设计/个人简历+案例展示/语者项目全操盘/1 语者PERS-黄轩.mp4,video/mp4,983059245,937.5 MB,Work / 语者,REFERENCE,P3,最终确定要展示《语者》成片时,约 983MB，超大；Work 默认严禁读取
+个人站点设计/个人简历+案例展示/语者项目全操盘/601e29d82c052a01de8637d75f2039.JPG,image/jpeg,191748,187.3 KB,Work / 语者,REFERENCE,P2,需要《语者》案例静态证据时,静态图优先于大视频
+个人站点设计/个人简历+案例展示/语者项目全操盘/95384ea7e75ef57b426ca6fe8b4fd4.JPG,image/jpeg,579922,566.3 KB,Work / 语者,REFERENCE,P2,需要《语者》案例静态证据时,静态图优先于大视频
+个人站点设计/个人简历+案例展示/语者项目全操盘/1473652253f13975c7f073d706d6ad.JPG,image/jpeg,736364,719.1 KB,Work / 语者,REFERENCE,P2,需要《语者》案例静态证据时,静态图优先于大视频
+个人站点设计/个人简历+案例展示/语者项目全操盘/01e52137c476d77bbb3d17ba6a08f8.JPG,image/jpeg,797867,779.2 KB,Work / 语者,REFERENCE,P2,需要《语者》案例静态证据时,静态图优先于大视频
+个人站点设计/个人简历+案例展示/语者项目全操盘/1d4df603cbbc36921bbd11198246b3.JPG,image/jpeg,1141254,1.1 MB,Work / 语者,REFERENCE,P2,需要《语者》案例静态证据时,静态图优先于大视频
+个人站点设计/个人简历+案例展示/语者项目全操盘/1cadaf32cfd4b106490367e3bbf634.JPG,image/jpeg,928472,906.7 KB,Work / 语者,REFERENCE,P2,需要《语者》案例静态证据时,静态图优先于大视频
+个人站点设计/个人简历+案例展示/语者项目全操盘/ff211ecdbcb4105cbda970696da4c4.JPG,image/jpeg,452659,442.0 KB,Work / 语者,REFERENCE,P2,需要《语者》案例静态证据时,静态图优先于大视频
+个人站点设计/个人简历+案例展示/语者项目全操盘/6880302666f542d547bc0ee9cf04c1.JPG,image/jpeg,1246683,1.2 MB,Work / 语者,REFERENCE,P2,需要《语者》案例静态证据时,静态图优先于大视频
+个人站点设计/个人简历+案例展示/语者项目全操盘/3292557d2dec16cf161e64a128c96a.JPG,image/jpeg,1269493,1.2 MB,Work / 语者,REFERENCE,P2,需要《语者》案例静态证据时,静态图优先于大视频
+个人站点设计/个人简历+案例展示/语者项目全操盘/2 语者-李荣浩.mp4,video/mp4,907660665,865.6 MB,Work / 语者,REFERENCE,P3,最终确定要展示《语者》成片时,约 908MB，超大；Work 默认严禁读取
+个人站点设计/个人简历+案例展示/语者项目全操盘/《语者》第二季合作方案（明星版）.pdf,application/pdf,8553122,8.2 MB,Work / 语者,REFERENCE,P1,整理《语者》案例信息、商业合作结构时,优先读 PDF/简历再决定是否看视频
+个人站点设计/个人简历+案例展示/语者项目全操盘/《语者》第二季合作方案（企业家版）.pdf,application/pdf,7510883,7.2 MB,Work / 语者,REFERENCE,P2,需要补充《语者》企业家版合作细节时,次级方案资料
+个人站点设计/个人简历+案例展示/上海时装周/1f74ce8459d9a69b0a1f2ef2abea2f.JPG,image/jpeg,121215,118.4 KB,Work / 活动,REFERENCE,P2,上海时装周案例需要画面时,原始活动图，不默认读取
+个人站点设计/个人简历+案例展示/上海时装周/d2e256668e4f5bc41bb4fb1685da6c.JPG,image/jpeg,129249,126.2 KB,Work / 活动,REFERENCE,P2,上海时装周案例需要画面时,原始活动图，不默认读取
+个人站点设计/个人简历+案例展示/上海时装周/d709bf0905e70fea4525c5e1e5a94e.JPG,image/jpeg,89534,87.4 KB,Work / 活动,REFERENCE,P2,上海时装周案例需要画面时,原始活动图，不默认读取
+个人站点设计/这个是已经做好了的产品PTG，先用ptg 的名字，后面改了名字为泰瑞堂先不用/.DS_Store,application/octet-stream,6148,6.0 KB,系统文件,IGNORE,IGNORE,永不读取,macOS Finder 元数据
+个人站点设计/这个是已经做好了的产品PTG，先用ptg 的名字，后面改了名字为泰瑞堂先不用/展示 PTG.MP4,video/mp4,349544171,333.4 MB,PTG,CURRENT_SOURCE,P3,只有在最终 PTG 房间需要视频演示时,约 350MB；Work 整理阶段不要读取，先用设计原稿与概念图
+个人站点设计/这个是已经做好了的产品PTG，先用ptg 的名字，后面改了名字为泰瑞堂先不用/源代码工程文件.zip,application/zip,246051321,234.7 MB,PTG,CURRENT_SOURCE,P3,只有 Codex/技术审计明确要求时,约 246MB；Work 禁止解压/全读，不属于内容整理必需
+个人站点设计/这个是已经做好了的产品PTG，先用ptg 的名字，后面改了名字为泰瑞堂先不用/PTG 设计原稿.md,text/markdown,6812,6.7 KB,PTG,CURRENT,P1,整理 PTG 房间、产品说明、功能结构时,PTG 核心文字事实源
+个人站点设计/这个是已经做好了的产品PTG，先用ptg 的名字，后面改了名字为泰瑞堂先不用/展示概念图 2.png,image/png,2681871,2.6 MB,PTG,REFERENCE,P2,PTG 房间需要视觉素材/Logo 时,先读文字规格；视觉任务再按需读取。注意网站当前名称仍用 PTG
+个人站点设计/这个是已经做好了的产品PTG，先用ptg 的名字，后面改了名字为泰瑞堂先不用/展示概念图 3.png,image/png,2886653,2.8 MB,PTG,REFERENCE,P2,PTG 房间需要视觉素材/Logo 时,先读文字规格；视觉任务再按需读取。注意网站当前名称仍用 PTG
+个人站点设计/这个是已经做好了的产品PTG，先用ptg 的名字，后面改了名字为泰瑞堂先不用/展示概念图 4.png,image/png,2891699,2.8 MB,PTG,REFERENCE,P2,PTG 房间需要视觉素材/Logo 时,先读文字规格；视觉任务再按需读取。注意网站当前名称仍用 PTG
+个人站点设计/这个是已经做好了的产品PTG，先用ptg 的名字，后面改了名字为泰瑞堂先不用/展示概念图 6.png,image/png,2943272,2.8 MB,PTG,REFERENCE,P2,PTG 房间需要视觉素材/Logo 时,先读文字规格；视觉任务再按需读取。注意网站当前名称仍用 PTG
+个人站点设计/这个是已经做好了的产品PTG，先用ptg 的名字，后面改了名字为泰瑞堂先不用/展示概念图.png,image/png,2890918,2.8 MB,PTG,REFERENCE,P2,PTG 房间需要视觉素材/Logo 时,先读文字规格；视觉任务再按需读取。注意网站当前名称仍用 PTG
+个人站点设计/这个是已经做好了的产品PTG，先用ptg 的名字，后面改了名字为泰瑞堂先不用/展示感念图 5.png,image/png,2745152,2.6 MB,PTG,REFERENCE,P2,PTG 房间需要视觉素材/Logo 时,先读文字规格；视觉任务再按需读取。注意网站当前名称仍用 PTG
+个人站点设计/这个是已经做好了的产品PTG，先用ptg 的名字，后面改了名字为泰瑞堂先不用/PGT 最终 logo.png,image/png,2985425,2.8 MB,PTG,CURRENT,P2,PTG 房间需要视觉素材/Logo 时,先读文字规格；视觉任务再按需读取。注意网站当前名称仍用 PTG
+个人站点设计/这个是已经做好了的产品PTG，先用ptg 的名字，后面改了名字为泰瑞堂先不用/photo_4EDAEC13.png,image/png,3088458,2.9 MB,PTG,REFERENCE,P2,PTG 房间需要视觉素材/Logo 时,先读文字规格；视觉任务再按需读取。注意网站当前名称仍用 PTG
+个人站点设计/这个是已经做好了的产品PTG，先用ptg 的名字，后面改了名字为泰瑞堂先不用/PTGlogo 设计.png,image/png,1588723,1.5 MB,PTG,REFERENCE,P2,PTG 房间需要视觉素材/Logo 时,先读文字规格；视觉任务再按需读取。注意网站当前名称仍用 PTG
+个人站点设计/.impeccable/build/,folder,,,构建遗留,IGNORE,IGNORE,默认不读取,历史工具 build 状态目录
+个人站点设计/.impeccable/build/state.json,application/json,1679,1.6 KB,构建遗留,IGNORE,IGNORE,永不读取,build-phase 状态文件；无网站内容价值
+03_FINAL_VISUAL_TARGET.jpeg,image/jpeg,,,GLOBAL_VIDEO_UI_VISUAL_STANDARD,CURRENT,P0,Codex 开工时必读；适用于全部视频×交互UI镜头，不限单帧,视觉融合质量示范；定义全局材质/光影/透视/遮挡/时序/物理反馈标准，不锁定具体构图或仅此瞬间
+
